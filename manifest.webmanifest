@@ -1,0 +1,9 @@
+{
+  "name": "JARVIS - Asistente personal",
+  "short_name": "JARVIS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050912",
+  "theme_color": "#050912",
+  "description": "Interfaz minimalista de asistente personal"
+}

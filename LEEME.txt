@@ -1,0 +1,18 @@
+JARVIS - Prototipo inicial
+
+Contenido:
+- index.html: aplicación.
+- manifest.webmanifest: configuración para instalar como aplicación web.
+- sw.js: caché básica.
+
+Para instalar como aplicación en Android:
+1. Sube estos tres archivos a un hosting HTTPS (por ejemplo, GitHub Pages).
+2. Abre el enlace HTTPS en Chrome en tu Infinix.
+3. Abre el menú ⋮ y elige "Instalar aplicación" o "Añadir a pantalla de inicio".
+4. Acepta y abre el icono JARVIS.
+
+Importante:
+- Es un prototipo inicial. Incluye voz del navegador y respuestas sencillas de prueba.
+- No tiene todavía una IA conectada ni puede controlar otras aplicaciones.
+- El reconocimiento de voz suele requerir Chrome, permiso de micrófono e Internet.
+- No pongas claves privadas de servicios de IA dentro del HTML.
